@@ -1,0 +1,5 @@
+lamp
+apple
+999
+9999
+chair

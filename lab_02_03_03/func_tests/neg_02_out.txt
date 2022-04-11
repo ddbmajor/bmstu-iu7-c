@@ -1,0 +1,1 @@
+amount can't be bigger than ten

@@ -1,0 +1,45 @@
+Armageddon
+Bay
+1998
+Fight Club
+Fincher
+1999
+Film_1
+Producer_1
+1800
+Film_2
+Producer_2
+1801
+Film_3
+Producer_3
+1822
+Forrest Gump
+Zemeckis
+1994
+Inception
+Nolan
+2010
+Interstellar
+Nolan
+2014
+Interview
+Nolan
+2014
+Intouchables
+Nakache
+2011
+Leon
+Besson
+1994
+Schindler's List
+Spielberg
+1993
+The Green Mile
+Darabont
+1999
+The Lion King
+Allers
+1994
+Tinker Tailor Soldier Spy
+Alfredson
+2011

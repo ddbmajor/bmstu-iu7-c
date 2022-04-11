@@ -1,0 +1,9 @@
+food.ru
+food
+400
+match.ru
+sport
+3000
+game.com
+gaming
+2500

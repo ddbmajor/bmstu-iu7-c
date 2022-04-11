@@ -1,0 +1,11 @@
+chair
+markr
+67
+565
+disk
+rrd
+34
+656
+
+В аргументах:
+fb input.bin qwe

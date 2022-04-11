@@ -1,0 +1,12 @@
+sport.tv
+sport
+1000
+food.ru
+food
+400
+match.ru
+sport
+4000
+kick.net
+sport
+2000

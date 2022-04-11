@@ -1,0 +1,2 @@
+В аргументах:
+p input.bin name

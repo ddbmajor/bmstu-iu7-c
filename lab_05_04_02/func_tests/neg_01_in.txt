@@ -1,0 +1,2 @@
+В аргументах:
+sb notexist.bin output.bin
